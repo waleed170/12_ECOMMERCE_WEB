@@ -1,9 +1,9 @@
-# 12_ECOMMERCE_WEB
+# ShopStop
 Ecommerce Platform
 # E-Commerce Platform
 
 ## Introduction
-This project is a fully responsive e-commerce platform developed using React.js, Tailwind CSS, Formik and Vite. It features a comprehensive set of functionalities, including product listings, detailed product pages, a shopping cart.
+This project is a fully responsive e-commerce platform developed using React.js, Tailwind CSS, Formik and Vite. It features a comprehensive set of functionalities, including product listings, detailed product pages, a shopping cart, darkmode and lightmode. 
 
 ## Features
 - **Responsive Design:** Fully responsive layout optimized for various devices.
@@ -27,7 +27,7 @@ This project is a fully responsive e-commerce platform developed using React.js,
 - **AOS**: For adding scroll animations to elements.
 - **React Scroll**: For smooth scrolling to elements.
 
-- ## Components
+  ## Components
 - **Navbar**: Navigation bar with order popup control.
 - **Hero**: Main banner with call-to-action.
 - **Products**: Display of product listings.
