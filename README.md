@@ -3,12 +3,12 @@ Ecommerce Platform
 # E-Commerce Platform
 
 ## Introduction
-This project is a fully responsive e-commerce platform developed using React.js, Tailwind CSS, Formik and Vite. It features a comprehensive set of functionalities, including product listings, detailed product pages, a shopping cart, darkmode and lightmode. 
+This project is a fully responsive e-commerce platform developed using React.js, Tailwind CSS, Formik, Yup and Vite. It features a comprehensive set of functionalities, including product listings, detailed product pages, a shopping cart popup form, darkmode and lightmode. 
 
 ## Features
 - **Responsive Design:** Fully responsive layout optimized for various devices.
 - **Landing Page:** Welcomes users with highlights of top products and promotional banners.
-- **Product Listings:** Browse products across categories like electronics, menswear, and kidswear.
+- **Product Listings:** Browse products across categories like electronics, menswear, women clothes, and kidswear.
 - **Product Details:** View detailed information about individual products.
 - **Shopping Cart:** Add items to the cart and manage them before checkout.
 - **Product Categories:** Pages for Electronics, Menswear, and Kidswear.
